@@ -1,0 +1,7 @@
+[
+  {"station": "  ann arbor north  ", "raw_condition": "PARTLY CLOUDY   ", "raw_temp": "68F"},
+  {"station": "west quad rooftop", "raw_condition": "  sunny", "raw_temp": " 82F"},
+  {"station": "Pioneer High School", "raw_condition": "light rain ", "raw_temp": "59F "},
+  {"station": "  DIAG CENTRAL  ", "raw_condition": "Clear Skies", "raw_temp": "75F"},
+  {"station": "north campus", "raw_condition": "RAIN SHOWERS", "raw_temp": "61F"}
+]
